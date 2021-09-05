@@ -8,7 +8,7 @@
  <p align="justify">LGM Virtual Internship program TASK -1 : To create a single page website using HTML , CSS & JS</p>
 
 
-![My Single Page Website](https://raw.githubusercontent.com/balajeeav/LGMVIP-WebDev/master/TASK%201%20(LEVEL%201)/AVB/Single%20page.JPG)
+![My Single Page Website](https://github.com/balajeeav/LGMVIP-WebDev/blob/master/LGMVIP-WebDev-master/TASK%201%20(LEVEL%201)/AVB/Single%20page.JPG)
 
 Leave a :star: &nbsp;if you like it!
 
